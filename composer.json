@@ -4,6 +4,10 @@
     "type": "project",
     "require": {
         "alrik11es/cowsayphp": "^1.2",
+        "php": "^8.0.2",
+        "ext-exif": "*",
+        "ext-gd": "*",
+        "ext-redis": "*",
         "ext-decimal": "*"
     },
     "authors": [
