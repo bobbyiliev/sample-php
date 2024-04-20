@@ -7,8 +7,7 @@
         "php": "^8.2",
         "ext-exif": "*",
         "ext-gd": "*",
-        "ext-redis": "*",
-        "ext-decimal": "*"
+        "ext-redis": "*"
     },
     "authors": [
         {
